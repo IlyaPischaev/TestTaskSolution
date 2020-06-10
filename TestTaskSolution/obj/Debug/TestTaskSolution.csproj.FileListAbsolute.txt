@@ -1,0 +1,5 @@
+C:\Work\C#\TestTaskSolution\TestTaskSolution\bin\Debug\TestTaskSolution.dll
+C:\Work\C#\TestTaskSolution\TestTaskSolution\bin\Debug\TestTaskSolution.pdb
+C:\Work\C#\TestTaskSolution\TestTaskSolution\obj\Debug\TestTaskSolution.csprojAssemblyReference.cache
+C:\Work\C#\TestTaskSolution\TestTaskSolution\obj\Debug\TestTaskSolution.dll
+C:\Work\C#\TestTaskSolution\TestTaskSolution\obj\Debug\TestTaskSolution.pdb
